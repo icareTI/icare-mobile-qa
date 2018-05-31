@@ -6,7 +6,7 @@ config.dbOptions = {
     server: {
         poolSize: 10,
         reconnectTries: Number.MAX_VALUE,
-        //ssl: true
+        ssl: true
     },
     user: 'icappmongo',
     pass: '58Ozdus3NFfPf5pky1PF5LpINEsz2oBTHiPXq28QRRIzUIQf2h00VZfwK3Zwf17mwIIWWWOmonG6BSiCUUd2sQ=='
